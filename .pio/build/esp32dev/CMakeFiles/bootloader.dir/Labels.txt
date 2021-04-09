@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/CMakeFiles/bootloader
+/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/CMakeFiles/bootloader.rule
+/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/CMakeFiles/bootloader-complete.rule
+/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

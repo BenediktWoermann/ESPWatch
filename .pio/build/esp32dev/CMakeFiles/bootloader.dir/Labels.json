@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

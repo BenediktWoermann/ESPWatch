@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/Users/bw/.platformio/packages/framework-espidf/components/bootloader/subproject",
+    "build_dir":          "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/.pio/build/esp32dev/bootloader",
+    "config_file":        "/Users/bw/Documents/PlatformIO/Projects/ESPWatch/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "HEAD-HASH-NOTFOUND",
+    "phy_data_partition": "",
+    "monitor_baud" : "115200",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/Users/bw/.platformio/packages/framework-espidf/components/efuse/Kconfig;/Users/bw/.platformio/packages/framework-espidf/components/esp32/Kconfig;/Users/bw/.platformio/packages/framework-espidf/components/esp_common/Kconfig;/Users/bw/.platformio/packages/framework-espidf/components/log/Kconfig;/Users/bw/.platformio/packages/framework-espidf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/Users/bw/.platformio/packages/framework-espidf/components/bootloader/Kconfig.projbuild;/Users/bw/.platformio/packages/framework-espidf/components/esptool_py/Kconfig.projbuild;/Users/bw/.platformio/packages/framework-espidf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/Users/bw/.platformio/packages/framework-espidf/components/bootloader", "/Users/bw/.platformio/packages/framework-espidf/components/bootloader_support", "/Users/bw/.platformio/packages/framework-espidf/components/efuse", "/Users/bw/.platformio/packages/framework-espidf/components/esp32", "/Users/bw/.platformio/packages/framework-espidf/components/esp_common", "/Users/bw/.platformio/packages/framework-espidf/components/esp_rom", "/Users/bw/.platformio/packages/framework-espidf/components/esptool_py", "/Users/bw/.platformio/packages/framework-espidf/components/log", "/Users/bw/.platformio/packages/framework-espidf/components/bootloader/subproject/main", "/Users/bw/.platformio/packages/framework-espidf/components/bootloader/subproject/components/micro-ecc", "/Users/bw/.platformio/packages/framework-espidf/components/partition_table", "/Users/bw/.platformio/packages/framework-espidf/components/soc", "/Users/bw/.platformio/packages/framework-espidf/components/spi_flash", "/Users/bw/.platformio/packages/framework-espidf/components/xtensa", "" ]
+}
