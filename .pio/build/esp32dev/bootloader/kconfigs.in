@@ -1,0 +1,7 @@
+source "/Users/bw/.platformio/packages/framework-espidf/components/efuse/Kconfig"
+source "/Users/bw/.platformio/packages/framework-espidf/components/esp32/Kconfig"
+source "/Users/bw/.platformio/packages/framework-espidf/components/esp_common/Kconfig"
+source "/Users/bw/.platformio/packages/framework-espidf/components/esp_system/Kconfig"
+source "/Users/bw/.platformio/packages/framework-espidf/components/log/Kconfig"
+source "/Users/bw/.platformio/packages/framework-espidf/components/newlib/Kconfig"
+source "/Users/bw/.platformio/packages/framework-espidf/components/spi_flash/Kconfig"
